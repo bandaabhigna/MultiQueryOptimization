@@ -1,0 +1,9 @@
+ID 1
+Name 2
+Age 3
+Weight 4
+Dept 5
+Salary 6
+GPA 7
+Title 8
+Semester 9

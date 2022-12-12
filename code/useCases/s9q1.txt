@@ -1,0 +1,1 @@
+INSERT INTO Instructor(ID, Name, Age, Weight, Dept, Salary) VALUES (11, ‘John’, 32, 75, ’Maths’,  12000)

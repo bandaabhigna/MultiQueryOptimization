@@ -1,0 +1,1 @@
+SELECT Name, Weight FROM Student, Instructor WHERE Age <= 40

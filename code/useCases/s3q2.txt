@@ -1,0 +1,1 @@
+SELECT Name, Age, Salary FROM Instructor WHERE Age <= 60 OR Age > 50

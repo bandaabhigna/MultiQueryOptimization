@@ -1,0 +1,1 @@
+SELECT Name, Age, Salary FROM Instructor WHERE Age IN (10,20,30)

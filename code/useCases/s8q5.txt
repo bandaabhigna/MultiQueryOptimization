@@ -1,0 +1,1 @@
+SELECT Name, Age FROM Instructor WHERE Age > 20 GROUP BY Age

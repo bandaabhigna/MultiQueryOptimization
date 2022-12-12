@@ -1,0 +1,1 @@
+SELECT Name, Salary FROM Instructor as e WHERE Age <= 40

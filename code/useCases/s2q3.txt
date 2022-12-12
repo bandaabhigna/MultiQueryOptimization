@@ -1,0 +1,1 @@
+SELECT Age as a, Weight as sa FROM Student, Instructor as e2

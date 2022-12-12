@@ -1,0 +1,1 @@
+SELECT Age, Weight FROM Student, Instructor as e2 WHERE Age <= 70

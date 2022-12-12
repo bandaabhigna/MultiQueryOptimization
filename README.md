@@ -19,7 +19,7 @@ How to execute:
 Go the code dir and type "javac ParserObj4.java" for compilation
 For running, type "java ParserObj4 s1q1.txt s1q2.txt .." 
 
-For funding the execution time, go to mysql and type
+For finding the execution time, go to mysql and type
 1) set profiling =1
 2) query
 3) show profiles

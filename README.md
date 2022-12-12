@@ -23,15 +23,25 @@ ParserObj4.java : This is the main class and has the major part of algorithm.
 
 
 What all are needed:
-java
-mysql
+
+java and mysql
+
 
 How to execute:
+
 Go the code dir and type "javac ParserObj4.java" for compilation
+
 For running, type "java ParserObj4 s1q1.txt s1q2.txt .." 
 
+
 For finding the execution time, go to mysql and type
+
 1) set profiling =1
+
 2) query
+
 3) show profiles
+
 The last command displays the execution time of sql query.
+
+

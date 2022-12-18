@@ -1,4 +1,5 @@
-# MultiQueryOptimization_AIR
+# MultiQueryOptimization
+
 We have the following files:
 
 Select.java : It contains the secondary attributes list of each query.

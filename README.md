@@ -22,6 +22,8 @@ TablenameMap.java : Contains the map of the table names
 
 ParserObj4.java : This is the main class and has the major part of algorithm.
 
+set1.pdf to set10.pdf : each file has a set of query examples
+
 
 What all are needed:
 
